@@ -1,2 +1,2 @@
-# ubuntu-config
-Ubuntu initial configuration with Ansible
+# custom-config
+Debian/Ubuntu initial configuration with Ansible
